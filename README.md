@@ -17,7 +17,7 @@ This project include:
 - **Summary Report**: A summary report in a test case project is a high-level document that provides an overview of the testing activities and results. It summarizes the key findings, metrics, and observations from the testing effort.
 - **Test Metrics**: Test metrics in a test case project are quantitative measurements that provide insights into the effectiveness and progress of the testing effort. They help assess the quality of the software application and provide valuable data for decision-making and process improvement.
 
-![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
+  ![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
 
 The project the following testing types present:
 
