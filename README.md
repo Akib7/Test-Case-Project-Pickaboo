@@ -4,9 +4,9 @@
 
 This project provides a comprehensive set of manual test cases for the Pickaboo project. Pickaboo is an e-commerce platform that allows users to browse and purchase a wide range of products online. The test cases cover various functionalities and scenarios of the Pickaboo application to ensure it is thoroughly tested and meets the desired quality standards. The Website - https://www.pickaboo.com/
 
-![Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/07cd0bde-8b24-48ff-9e10-ccae58649c75)
+  ![Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/07cd0bde-8b24-48ff-9e10-ccae58649c75)
 
-![Test-Management-process](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/8a6c65d5-f124-4593-bc4f-fdd881927c7e)
+  ![Test-Management-process](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/8a6c65d5-f124-4593-bc4f-fdd881927c7e)
 
 This project include:
 
