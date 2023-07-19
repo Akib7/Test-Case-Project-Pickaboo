@@ -6,7 +6,7 @@ This project provides a comprehensive set of manual test cases for the Pickaboo 
 
   ![Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/07cd0bde-8b24-48ff-9e10-ccae58649c75)
 
-  ![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
+   ![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
 
 This project include:
 
