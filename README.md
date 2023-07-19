@@ -6,7 +6,7 @@ This project provides a comprehensive set of manual test cases for the Pickaboo 
 
   ![Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/07cd0bde-8b24-48ff-9e10-ccae58649c75)
 
-  ![Test-Management-process](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/8a6c65d5-f124-4593-bc4f-fdd881927c7e)
+  ![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
 
 This project include:
 
@@ -17,9 +17,9 @@ This project include:
 - **Summary Report**: A summary report in a test case project is a high-level document that provides an overview of the testing activities and results. It summarizes the key findings, metrics, and observations from the testing effort.
 - **Test Metrics**: Test metrics in a test case project are quantitative measurements that provide insights into the effectiveness and progress of the testing effort. They help assess the quality of the software application and provide valuable data for decision-making and process improvement.
 
-  ![Test Report Pickaboo](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/1bba5236-65b2-4b0b-95e5-f429c48fea84)
+![Test-Management-process](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/8a6c65d5-f124-4593-bc4f-fdd881927c7e)
 
-The project the following testing types present:
+The project has the following testing types present:
 
 - **User Interface Testing**: User Interface (UI) testing is a type of software testing that focuses on evaluating the graphical user interface of an application. It involves verifying the appearance, functionality, and usability of the user interface elements to ensure a smooth and intuitive user experience.
 
@@ -55,14 +55,22 @@ The project is organized into the following sections:
 
 Each test case is organized into the following sections:
 
-**Test Case ID**: A unique identifier for the test case.
-Test Objective: A brief description of the objective or purpose of the test case.
-**Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
-**Test Steps**: Detailed step-by-step instructions on how to execute the test case.
-**Expected Results**: The expected outcome or behavior of the Pickaboo application after executing the test steps.
-**Test Data**: Any specific test data or inputs required for executing the test case.
-**Test Environment**: The hardware, software, and configuration requirements for executing the test case.
-**Test Status**: The current status of the test case (e.g., Pass, Fail, In Progress).
-**Notes**: Additional notes or comments related to the test case, such as known issues or suggestions for improvement.
+- **Test Case ID**: A unique identifier for the test case.
+  
+- **Test Objective**: A brief description of the objective or purpose of the test case.
+  
+- **Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
+  
+- **Test Steps**: Detailed step-by-step instructions on how to execute the test case.
+  
+- **Expected Results**: The expected outcome or behavior of the Pickaboo application after executing the test steps.
+  
+- **Test Data**: Any specific test data or inputs required for executing the test case.
+  
+- **Test Environment**: The hardware, software, and configuration requirements for executing the test case.
+  
+- **Test Status**: The current status of the test case (e.g., Pass, Fail, In Progress).
+  
+- **Notes**: Additional notes or comments related to the test case, such as known issues or suggestions for improvement.
 
 
